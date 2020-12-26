@@ -1,0 +1,1 @@
+A tiny bot that can find and delete animated casino emoji from Telegram chats.
